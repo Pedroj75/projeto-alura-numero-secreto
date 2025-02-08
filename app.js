@@ -1,5 +1,5 @@
 alert('Jogo do numero secreto');
-let numeroMaximo = 10
+let numeroMaximo = 100
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 let tentativa;
 let palpites = 1;
